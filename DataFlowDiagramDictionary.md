@@ -1,7 +1,7 @@
 #Data Flow Diagram Dictionary
-Corporate Developer - Planning and execution of a wide range of strategies to meet organizational objectives<br/>
+Corporate Developer - Works on a wide range of strategies to come up with solutions.<br/>
 <br/>
-Corporate Manager - The process of leading, administrating and directing a company<br/>
+Corporate Manager - The process of leading and monitoring a project<br/>
 <br/>
 National Vulnerability Database - include databases of security checklist<br/>
 <br/>
