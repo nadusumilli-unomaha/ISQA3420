@@ -13,3 +13,9 @@ Preconditions:
 Main Success Scenario: Corporate manager receives accurate license and vulnerability information for the requested project packages
 Failed End Conditions: Corporate manager receives inaccurate or invalid license and vulnerability information for the requested project packages
 Trigger: Corporate manager uploads or identifies project information to which license and vulnerability information is provided
+
+##Use Case 2
+Title: Enter Package Data
+
+##Use Case 3
+Title: Check Vulnerabilities Against Policy
