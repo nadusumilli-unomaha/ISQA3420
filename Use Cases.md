@@ -15,9 +15,9 @@ __Failed End Conditions__: Corporate manager receives inaccurate or invalid lice
 __Trigger__: Corporate manager uploads or identifies project information to which license and vulnerability information is provided<br/>
 
 ##Use Case 2
-__Title__: Enter Package Data<br/>
+__Title__: Enter Package and File CPE Data<br/>
 __Primary Actor__: Corporate Developer<br/>
-__Goal in Context__: The corporate developer is able to update risk database with new software package data following comparison to NIST CPE information from vulnerability database.<br/>
+__Goal in Context__: The corporate developer is able to update risk database with new software package CPE and file CPE data following comparison to NIST CPE information from vulnerability database.<br/>
 __Stakeholders__: <br/>
   Corporate Manager: To maintain up-to-date file and package information stored in risk database concerning software in development.<br/>
   Corporate Developer: To provide the processed comparison results to NIST vulnerability data.<br/> 
