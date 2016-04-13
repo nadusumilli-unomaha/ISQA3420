@@ -1,11 +1,11 @@
 #Entity Relationship Diagram
 __Policy Datastore__ <br/>
 Author <br/>
-Package Information <br/>
+Policy Context Information <br/>
 Date Added <br/>
-Low Severity CVSS score 0.0-3.9. <br/>
-Medium Severity CVSS score 4.0-6.9. <br/>
-High Severity CVSS score 7.0-10.0. <br/>
+Low Severity CVSS <br/>
+Medium Severity CVSS <br/>
+High Severity CVSS <br/>
 
 __Manifest Datastore__ <br/>
 Common Platform Enumeration <br/>
