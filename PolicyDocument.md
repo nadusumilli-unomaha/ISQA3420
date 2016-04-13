@@ -6,4 +6,11 @@ Vulnerabilities are "High" severity if they have a CVSS base score of 7.0-10.0.<
 Our organization will reject the use of any open source software receiving a High severity rating from a CVSS base score of 7.0-10.<br/><br/>
 Open source software receiving a Medium rating, corresponding to a CVSS score of 4.0-6.9 must receive management approval prior to use in our systems. The developer who is requesting to incorporate this software will submit a formal Request-To-Use (RTU) document which will be considered by a management team consisting of the Development Manager, Operations Manager and Executive Sponsor of the project.<br/><br/>
 Software receiving a Low rating, corresponding to a CVSS score of less than 4.0, may be used without approval.<br/><br/>
-Please see your department management with any questions concerning this policy.
+Contents to be stored in the policy datastore are:<br/>
+Author <br/>
+Policy Context Information <br/>
+Date Added <br/>
+Low Severity CVSS score 0.0-3.9. <br/>
+Medium Severity CVSS score 4.0-6.9. <br/>
+High Severity CVSS score 7.0-10.0. <br/><br/>
+Please see your department management with any questions concerning this policy. <br/>
