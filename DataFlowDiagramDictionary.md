@@ -17,7 +17,7 @@
 **CPE Information** - Input to update Software Manifest by Corporate Developer to Manage Software Manifest process.<br/>
 **Request Manifest** - Query from Corporate Developer to Manage Software Manifest process to retrieve current manifiest information.<br/>
 **Manifest Information** - Response data from Manage Software Manifest process to Corporate Developer following Request Manifest query.<br/>
-*Sorted CPE Informatin** - Processed CPE Information from Manage Software Manifest process to be added to Software Manifest datastore.<br/>
+**Sorted CPE Information** - Processed CPE Information from Manage Software Manifest process to be added to Software Manifest datastore.<br/>
 **Manifest Info Query** - Query from Manage Software Manifest process to Software Manifest datastore to retrieve current manifest information.<br/>
 **Manifest Query Return** - Response from Software Manifest Datastore to Manage Software Manifest process with current manifest information.<br/>
 **Package and CPE Information** - Processed package and CPE information for current file or package to be stored in Risk Database.<br/>
