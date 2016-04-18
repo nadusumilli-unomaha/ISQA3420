@@ -8,6 +8,21 @@
 **CPE Information:** Unique Identifier for software package.<br/>
 **CPE Response:** Retreiving licensing information.<br/>
 **CPE Request** - A request for license information.<br/>
+**Software CPE Query**<br/>
+**Software CPE Response**<br/>
+**Package Information**<br/>
+**File Information**<br/>
+**Manifest Information**<br/>
+**Request Manifest**<br/>
+**Sorted CPE Information**<br/>
+**Manifest info Query**<br/>
+**Manifest Query Return**<br/>
+**Package and CPE Information**<br/>
+**Package Information Request**<br/>
+**Package Information Response**<br/>
+**Request Policy**<br/>
+**Update Policy**<br/>
+**Policy Information**<br/>
 
 ##DataStores<br/>
 **NIST National Vulnerability Database:** Include all the information of the security checklist in a database.<br/>
